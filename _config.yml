@@ -16,13 +16,13 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US" 
-title                    : "توررنگ آتشی"
+locale                   : "Tehran" 
+title                    : "Ar_Fotouhi"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "Arghavan Fotouhi" 
 description              : "Welcome to my web site."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : #the subpath of your site, e.g. "/blog"
+url                      : https://arghavanfotouhi.github.io/
+baseurl                  : personal_website_template/
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : ft_arghavan
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -102,21 +102,21 @@ analytics:
   provider               : #google # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : #UA-139110197-2
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : # true, false (default)gi
 
 
 # Site Author
 author:
-  name             : "Toorrang Atashi"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
+  name             : "Arghavan Fotouhi"
+  avatar           : "C:\Users\Arghavan's laptop\Desktop"
+  bio              : 
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  email            :ar_fotouhi@comp.iust.ac.ir
+  twitter: ft_arghavan
+  linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: arghavanfotouhi
+  instagram: ft.arghavn
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
