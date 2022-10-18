@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Arghavan Fotouhi"
-  avatar           : "C:\Users\Arghavan's laptop\Desktop"
+  avatar           : "/assets/images/j.jpg" 
   bio              : 
   location         : "تهران"
   email            :ar_fotouhi@comp.iust.ac.ir
