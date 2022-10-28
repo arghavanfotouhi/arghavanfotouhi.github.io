@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "Tehran" 
@@ -22,7 +22,7 @@ title_separator          : "-"
 name                     : "Arghavan Fotouhi" 
 description              : "Welcome to my web site."
 url                      : https://arghavanfotouhi.github.io/
-baseurl                  : personal_website_template/
+baseurl                  : 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/j.jpg" 
   bio              : 
   location         : "تهران"
-  email            : https://arghavanfotouhi.f@gmail.com//
+  email            : arghavanfotouhi.f@gmail.com
   twitter: ft_arghavan
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
