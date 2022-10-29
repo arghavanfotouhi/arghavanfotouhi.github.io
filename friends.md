@@ -8,10 +8,10 @@ modified: 4-10-2019
 comments: true
 ---
 
-### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
+### Friesnds
+* Maysa
+* Dorsa
+* Avin
 
 
 
