@@ -29,4 +29,4 @@ comments: false
 |-----|----|----------------------------------------------------------------------------------|
 |1997 |2001| **BS**, Computer Engineering, Sharif University of Technology, Tehran, Iran               | -->
 
-<!-- |2022|now |**student** ,  Computer Engineering, IUST , Tehran , Iran  -->
+|2022|now |**student** ,  Computer Engineering, IUST , Tehran , Iran 
