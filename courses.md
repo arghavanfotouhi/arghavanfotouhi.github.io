@@ -8,7 +8,7 @@ modified: 9-14-2019
 comments: false
 ---
 
-
+<!-- 
 |           | **Current**                    |
 |----|------|--------------------------------|
 |2019|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
@@ -34,4 +34,4 @@ comments: false
 |----|------|--------------------------------------------|
 |2018|Spring| **Advanced Programming - C#**             |
 |----|------|--------------------------------------------|
-|2018|Spring| **Natural Language Processing (Undergraduate)** |
+|2018|Spring| **Natural Language Processing (Undergraduate)** | -->
