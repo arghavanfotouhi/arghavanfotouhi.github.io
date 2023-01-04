@@ -21,8 +21,8 @@ gallery:
     title: "Image 3 title caption"  
   - url: /assets/images/E.jpg
     image_path: /assets/images/E.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
+    alt: "placeholder image E"
+    title: "Image E title caption"
   # - url: /assets/images/
   #   image_path: /assets/images/
   #   alt: "placeholder image 5"
