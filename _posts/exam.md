@@ -4,8 +4,8 @@ title: website course
 ---
 
 ##وبسایت
-را فورک کرده و در ان تغییرات ایجاد کردم  personal_website_template بتدا
-
+<!-- را فورک کرده و در ان تغییرات ایجاد کردم  personal_website_template بتدا -->
+I forked personal_website_template  and changed it.
 
 [my website](https://lms.iust.ac.ir/login/index.php)
 
