@@ -20,7 +20,7 @@ gallery:
     alt: "placeholder image 3"
     title: "Image 3 title caption"  
   - url: /assets/images/E.jpg
-    image_path: /assets/images/E.png
+    image_path: /assets/images/E.jpg
     alt: "placeholder image 4"
     title: "Image 4 title caption"
   # - url: /assets/images/
