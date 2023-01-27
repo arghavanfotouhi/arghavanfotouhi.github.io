@@ -20,7 +20,7 @@ Here you can find how I chose the colors in C language :
 [color](https://stackoverflow.com/questions/16500656/which-color-gradient-is-used-to-color-mandelbrot-in-wikipedia)
 
 Then I have writen 4 defs in C language  for rotation , changing center , zoom and hold :
-[get the mandelbrot set](/assets/pdf/blog.txt).
+[get the mandelbrot set](/assets/pdf/blog..txt).
 
 For providing a clip I have writen play.cfg:
 [get the play.cfg](/assets/pdf/play.txt).
