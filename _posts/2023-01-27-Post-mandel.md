@@ -6,7 +6,7 @@ title: Mandelbrot set
 
 ## Mandelbrot set
 
-For the first pictures I worked with python and made pictures with different formulas , colors & … then I worked with C language (using python will help you to understand mandel project better).
+For the first pictures I worked with python and made pictures with different formulas , colors and etc.then I worked with C language (using python will help you to understand mandel project better).
 
 ![alt text](../assets/images/mandel2.png "Python")
 
@@ -26,7 +26,7 @@ For providing a clip I have writen play.cfg:
 [get the play.cfg](/assets/pdf/play.txt).
 
 ## Sonic pi
-To provid music for your clip in sonic pi you can use synths ,samples , live loops &... (tutorials in sonic pi can be assistant to you).
+To provid music for your clip in sonic pi you can use synths ,samples , live loops and etc. (tutorials in sonic pi can be assistant to you).
 
 I used 3 live loops in background and different samples and synths for each def .
 
