@@ -21,7 +21,7 @@ Here you can find how I chose the colors in C language :
 
 Then I have had write 4 defs in C language  for rotation , changing center , zoom and hold .
 
-[get the mandelbrot set](/assets/pdf/mandelbrotset.h) directly.
+[get the mandelbrot set](/assets/pdf/blog.txt) .
 
 
 ## Sonic pi
